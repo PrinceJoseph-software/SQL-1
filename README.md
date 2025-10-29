@@ -58,4 +58,4 @@ To set up the database, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/online-sales-sql.git
+   https://github.com/PrinceJoseph-software/SQL-1.git
